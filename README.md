@@ -13,7 +13,7 @@ Este es un proyecto realizado por creación conjunta padre e hijo con el propós
 
 ### Contacto:
 
-* [Miguel Ángel Giraldo Duque](https://www.facebook.com/miguel.giraldo.9484)  **Deescribete aquí**
+* [Miguel Ángel Giraldo Duque](https://www.facebook.com/miguel.giraldo.9484)  **Describete aquí... Tu futura profesión es, Desarrollador web?, Dessarollador de vieoujeugos?...puedes ser lo que quieras hijo al la final el conocimiento no se enmarca en un solo título.**
 * [Alejandro Giraldo Londoño](https://www.facebook.com/elia.trix/) **Científico de datos/Químico**
 
 
